@@ -15,16 +15,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=splendorgg&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=splendorgg&theme=catppuccin_mocha&hide_border=false)<br/>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
