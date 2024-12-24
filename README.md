@@ -10,6 +10,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+# About Me
+I've been building projects with Go and discovered my passion for web development. I got into the JavaScript and React ecosystems and enjoy building projects with them. I’m also exploring emerging technologies in this field and love incorporating them into my work. I’m excited about the opportunity to collaborate with a passionate team in this field.
+
 
 
 
