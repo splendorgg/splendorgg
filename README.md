@@ -14,7 +14,9 @@ I've been building projects with Go and discovered my passion for web developmen
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
-
+# 🌐 Live Projects
+[**YumePixel**](https://yumepixel.vercel.app/)
+[**Food Delivery**](https://food-delivery-site-nextjs.vercel.app/)
 
 
 
