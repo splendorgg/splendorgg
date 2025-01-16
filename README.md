@@ -17,6 +17,7 @@ I've been building projects with Go and discovered my passion for web developmen
 # 🌐 Live Projects
 - [**YumePixel**](https://yumepixel.vercel.app/)
 - [**Food Delivery**](https://food-delivery-site-nextjs.vercel.app/)
+- [**Metakawa**](https://metakawa.vercel.app/)
 
 
 
