@@ -4,7 +4,7 @@ I've been building projects with Go and discovered my passion for web developmen
 
 🌱 I’m currently learning: Docker, Linux, AWS Cloud Practitioner
 
-<!-- 📝 I regularly write articles on: -->
+📝 I regularly write guides on: [**Guides&Notes**](https://splendorg-guides.vercel.app/)
 
 # 💻 Tech Stack:
 <div style="text-align: center;">
@@ -31,6 +31,7 @@ I've been building projects with Go and discovered my passion for web developmen
 - [**YumePixel**](https://yumepixel.vercel.app/)
 - [**Food Delivery**](https://food-delivery-site-nextjs.vercel.app/)
 - [**Metakawa**](https://metakawa.vercel.app/)
+- [**Guides&Notes**](https://splendorg-guides.vercel.app/)
 
 
 
